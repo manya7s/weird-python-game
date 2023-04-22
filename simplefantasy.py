@@ -75,4 +75,4 @@ while True:
         print("Thank you for playing.")
         break
 
-#Hi Manya
+#Meow says the cat
